@@ -82,3 +82,9 @@
     * 案内役を「豊臣秀吉」から他の人物に変更する。
   * 雑談相手変更
     * 雑談相手を「ねね」から他の人物に変更する。
+
+## 参考文献
+
+1. [太閤立志伝５ イベコンwiki](https://seesaawiki.jp/taikou5/)
+1. [太閤立志伝Ⅴ DXイベントコンバーターのヘルプ](https://www.gamecity.ne.jp/manual/KSjyrFfh/Taiko5DXEV_JP/index.html)
+1. [太閤立志伝５イベントスクリプトアップローダー](http://tukasa.sakura.ne.jp/tr5/joyful.cgi)
