@@ -1,7 +1,5 @@
 # Taiko5dxMyEvents
 
-![Taiko5dxMyEvents](Taiko5dxMyEvents.gif)
-
 ## ファイル
 
 |  ファイル名  |  属性 |発生契機| 説明 |
